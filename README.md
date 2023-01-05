@@ -9,6 +9,7 @@ How to play the game
 
 
 First of all download and install pygame by putting in the following commands in CMD(windows) or Terminal(mac)
+
 Windows: pip install pygame
 Mac: pip3 install pygame
 Linux: sudo apt-get install python-pygame

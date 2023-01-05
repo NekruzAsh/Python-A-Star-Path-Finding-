@@ -16,4 +16,4 @@ Mac: pip3 install pygame
 
 Linux: sudo apt-get install python-pygame
 
-Use your left mouse to put 2 Nodes on the grid, once done with that hit the Space bar on your keyboard to kickstart the program, you can also use the right mouse button to clear used Nodes
+Use your left mouse to put 2 Nodes on the grid, once done with that hit the Space bar on your keyboard to kickstart the program, you can also use the right mouse button to clear used Nodes. Make sure to also draw obstacles(black nodes) after putting your first 2 initial nodes and watch the algorithm find the closest distance. 
